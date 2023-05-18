@@ -1,0 +1,4 @@
+Grid search looks at every possible combination of hyperparameters to find the best model, random search only selects and tests a random combination of hyperparameters.
+
+Support Vector Machines are discriminative because they fit a hyperplane which separates two classes.
+
